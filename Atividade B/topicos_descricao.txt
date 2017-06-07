@@ -1,0 +1,11 @@
+Um usuario publica varios Posts- que tem um conteudo - que pertence a um Usuario.
+
+Um usuario pode ter varias Notificações que pertencem a um Usuario.
+
+Um usuario pode ter Participacoes em varios Grupos que tem varios participantes.
+
+Um usuario pode ter varias Solicitações de Amizade que pertencem a um Usuario solicitante.
+
+Um usuario pode ter varias mensagens que pertencem a um Usuario.
+
+Um Post pode ter varios Comentarios e Curtidas. 
